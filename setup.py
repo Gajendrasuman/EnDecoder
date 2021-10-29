@@ -11,8 +11,10 @@ setup(
     name="EnDecoder",
     version=VERSION,
     author="GS Tech",
-    author_email="<Gajendrasuman868@gmail.com>",
+    author_email="Gajendrasuman868@gmail.com",
     description=DESCRIPTION,
+    url="https://github.com/Gajendrasuman/EnDecoder",
+    license="MIT"
     packages=find_packages(),
     install_requires=[],
     keywords=['encrypt','decrypt'],
